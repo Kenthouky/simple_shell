@@ -1,14 +1,21 @@
 Name of Project: SIMPLE SHELL
+
 Method of Scripting: TEAM-WORK
+
 Number of Members in Team: 2
 
 
+
+
 ABOUT SIMPLE SHELL
+
 Simple shell is a requirement of the Full Stack Software Engineering program of  ALX in conjunction with Holberton.
 Required to be written by a team of two trainees, it is a test to see how best the two trainees can write a simple UNIX command interpreter.
 
 
+
 BASIC SUMMARY OF CONTENTS OF REPOSITORY - SIMPLE SHELL
+
 
 ✓ Betty passing code
 
